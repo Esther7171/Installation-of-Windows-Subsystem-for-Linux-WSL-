@@ -1,5 +1,6 @@
-# Wsl-kali
-Install linux windows subsystem for linux (wsl) on windows 11 ,Linux on windows terminal run Operating system such as kali linux , Ubuntu , Arch.
+# Wsl  Linux
+### Install Your favourate distro on Windows 11
+### Install linux windows subsystem for linux (wsl) on windows 11 ,Linux on windows terminal run Operating system such as kali linux , Ubuntu , Arch.
 
  # W S L _ L i n u x _ I n s t a l l 
 
