@@ -52,7 +52,8 @@ wsl --set-default-version 2
 ## Open download distro 
 ### creat user pass for your distr
 ## Run following commands
-```bash sudo apt-get update -y && sudo apt-get upgrade
+```bash
+sudo apt-get update -y && sudo apt-get upgrade
 ```
 # TO Install REMOTE DESKTOP
 ```bash
